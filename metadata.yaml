@@ -1,0 +1,36 @@
+_repo: Father-Thrift-and-His-Animal-Friends_43287
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hodge, Helen Geraldine
+    gutenberg_agent_id: '41789'
+    url: http://www.gutenberg.org/2009/agents/41789
+covers:
+- cover_type: archival
+  image_path: 43287-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sindelar, Joseph C. (Joseph Charles)
+    aliases:
+    - Sindelar, Joseph Charles
+    - Sindelar, Jos. C. (Joseph Charles)
+    birthdate: 1885
+    gutenberg_agent_id: '42109'
+    url: http://www.gutenberg.org/2009/agents/42109
+description: ''
+gutenberg_issued: '2013-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- !lcsh 'Readers'
+- !lcsh 'Animals -- Juvenile fiction'
+title: Father Thrift and His Animal Friends
+url: http://www.gutenberg.org/ebooks/43287
